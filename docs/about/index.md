@@ -14,7 +14,7 @@ I am originally from [Asmara, Eritrea](https://whc.unesco.org/en/list/1550/), an
 
 # Other Interests
 
-- [Books](./books.md)
+- [Books](./books/index.md)
 - [Hiking](./hiking.md)
 
 # CV
