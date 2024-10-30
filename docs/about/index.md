@@ -1,12 +1,13 @@
 # Introduction
 
-Dr. Lisa Simpson is an accomplished astrophysicist whose passion for unraveling the mysteries of the cosmos has driven her academic journey. She earned her Bachelor's degree in Physics with honors from Celestial University, where her early fascination with astrophysics blossomed. Embarking on the pursuit of advanced knowledge, she continued her education at Stellar Institute, obtaining a Master's degree in Astrophysical Sciences with a focus on high-energy astrophysics.
+![](./media/headshot.jpg "headhsot"){align="left": style="height:400px"}
 
-Dr. Simpson's scholarly journey reached its zenith at Galactic University, where she completed her Ph.D. in Astrophysics. Her doctoral research centered on the Crab Nebula, an iconic celestial object known for its dynamic behavior. With a keen interest in both observational and theoretical aspects of astrophysics, Dr. Simpson utilized cutting-edge technology and advanced computational models to deepen our understanding of the processes at play within the Crab Nebula.
+I joined Prof. Katelin Scutz's group at McGill University as a MSc student in 2024 after spending one year in the postgraduate program at the International Centre for Theoretical Physics in Trieste and completing my BSc at Khalifa University in the UAE in 2023. I am interested in the interface between particle physics and cosmology, and I am particularly excited about the potential to probe new physics through cosmological and astrophysical observations. You can read more about my current research interests [here](../research/index.md).
 
-Throughout her academic career, Dr. Simpson has contributed to numerous publications in reputable astrophysical journals and has presented her findings at international conferences. She is recognized for her meticulous research methodologies and her commitment to advancing our understanding of the universe. As a dedicated educator, Dr. Simpson has also mentored aspiring astrophysicists, fostering the next generation's curiosity and passion for the cosmos.
+As a BSc student, I have worked on a variety of projects, ranging from computational solar astronomy to machine learning at LIGO to mathematical work on general relativity. You can find a summary of my past projects [here](../projects/index.md).
 
-Beyond the academic realm, Dr. Simpson is an avid stargazer and science communicator, regularly engaging with the public through lectures, workshops, and social media platforms. Her multifaceted approach to astrophysics encompasses both the pursuit of groundbreaking research and the dissemination of knowledge to a broader audience, embodying a commitment to bridging the gap between the mysteries of the universe and the curious minds seeking to explore them.
+I am originally from Asmara, Eritrea, and I have moved around the world quite a bit before coming to Montreal. In my free time, I enjoy reading novels, watching football and F1, and going on long walks in nature.
+
 
 # Other Interests
 

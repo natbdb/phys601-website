@@ -1,11 +1,11 @@
 # Change to your own name
-site_name: My Research Page
+site_name: Natnael Debru
 # Change to your own site
-site_url: https://steob92.github.io/mcgill-tutorial/ # must have the trailing slash
-site_author: Your Name (stephan.obrien@mcgill.ca)
-site_description: Research site for Your Name 
+site_url: https://natnaeldebru.github.io/phys601-website/ # must have the trailing slash
+site_author: Natnael Debru
+site_description: Research site for Natnael Debru
 copyright: > # should remain a link to the original theme
-  &copy; 2023 Your Name <br>
+  &copy; 2024 Natnael Debru <br>
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
@@ -17,7 +17,7 @@ theme:
       # Palette toggle for light mode
       - scheme: default
         # Color of the top bar
-        primary: deep purple
+        primary: indigo
         # Link highlight color
         accent : orange
         
@@ -55,9 +55,10 @@ extra_javascript:
 
 # For describing the navigation panel
 nav:
+  
   - Home: index.md
   - About Me: about/index.md
-  - Research: reasearch/index.md
+  - Research: research/index.md
   - Projects: projects/index.md
 
 # Extensions that we want to use
