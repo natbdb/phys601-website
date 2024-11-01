@@ -20,9 +20,13 @@ a whole.
 Although this research avenue has been explored for some time[^2] [^3], there has been recent research pointing out previously neglected in-medium effects, i.e. effects which arise from the DM particle interactions with nontrivial astrophysical environments. In fact, previous research usually assumed that these processes occurred in vaccuum, and taking these effects into account can lead to new constraints on the properties of new DM particles. My current research is focussed in this area, revisiting constraints on new particles and incorporating these in-medium effects in the framework of finite temperature field theory [^4]. This will lead to new constraints on new DM particles, which will advance our understanding of DM candidates and contribute to the search for
 beyond the SM physics by informing experimental searches as well as directions in theory.
 
+## Publications
+
+A full list of my publications can be found [here](./all_publications.md).
+
 ## Highlights
 
-Here are some highlights of my current and past reserach projects. A full list of my publications can be found [here](./all_publications.md).
+Here are some highlights of my current and past reserach projects. 
 
  - [Anomaly Detection for LIGO](./highlights/LIGO/index.md)
  - [Cylindrical Solutions of the Einstein Field Equations](./highlights/cylindrical_solutions/index.md)
