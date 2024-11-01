@@ -15,9 +15,14 @@ I am originally from [Asmara, Eritrea](https://whc.unesco.org/en/list/1550/), an
 # Other Interests
 
 - [Books](./books/index.md)
-- [Hiking](./hiking.md)
 
 # CV
 
 <!-- How to embed a PDF -->
 <iframe width="100%" height="600" src="./media/NatnaelCV_website.pdf">
+
+# Contact
+
+## Email 
+
+<a href="natnael.debru@mail.mcgill.ca">natnael.debru@mail.mcgill.ca</a>

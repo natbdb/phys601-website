@@ -65,6 +65,7 @@ nav:
 markdown_extensions:
   - attr_list   # For adding attributes such as right/left align to images
   - md_in_html  # Using Figures
+  - footnotes
 
 
 

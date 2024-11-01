@@ -9,10 +9,6 @@ I am a graduate student at McGill University, working with [Prof. Katelin Schutz
 
 If you'd like to learn more about me, you can find an introduction to [my research](./research/index.md), some info on some [recent projects](./projects/index.md) and some more info [about me](./about/index.md).
 
-## Here is an equation
-
-$$ x = \frac{-b \pm \sqrt{b^2 -4ac}}{2a}$$
-
 
 [![McGill](./media/mcgill.webp "McGill Campus")](https://en.wikipedia.org/wiki/Crab_Nebula#)
 The beautiful McGill campus. Image taken from [this McGill website](https://reporter.mcgill.ca/mcgill-ranks-among-worlds-best-universities-in-qs-rankings-by-subject/).
