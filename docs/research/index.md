@@ -25,7 +25,7 @@ beyond the SM physics by informing experimental searches as well as directions i
 Here are some highlights of my current and past reserach projects. A full list of my publications can be found [here](./all_publications.md).
 
  - [Anomaly Detection for LIGO](./highlights/LIGO/index.md)
- - [Multiwavelength Paper](./highlights/large_mwl_paper/index.md)
+ - [Cylindrical Solutions of the Einstein Field Equations](./highlights/cylindrical_solutions/index.md)
 
 
 

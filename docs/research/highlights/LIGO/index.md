@@ -1,4 +1,4 @@
-# Awesome Paper
+# LIGO Anomaly Detection with Transformers
 
  During the summer of 2022, I participated in the  CERN Summer Student Programme, where I worked within the CMS collab
 oration supervised by Drs. Maurizio Pierini and Nadezda Chernyavskaya. I contributed to their efforts
@@ -12,4 +12,4 @@ oration supervised by Drs. Maurizio Pierini and Nadezda Chernyavskaya. I contrib
 
 Here is a figure from the report, showing how the machine learning model accurately predicts and reconstructs the signal from the detector:
 
-![A screenshot of the paper](./media/ligo_screenshot.jpg)
+![A screenshot of the paper](./media/ligo_screenshot.png)
