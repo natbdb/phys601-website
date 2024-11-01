@@ -1,6 +1,6 @@
 # Research
 
-## Current Research Interests
+## Research Interests
 
 The Standard Model (SM) of particle physics is a theory that describes subatomic elementary particles
 and their interactions, and is the most precise and comprehensive framework in scientific history that
@@ -20,11 +20,14 @@ a whole.
 Although this research avenue has been explored for some time[^2] [^3], there has been recent research pointing out previously neglected in-medium effects, i.e. effects which arise from the DM particle interactions with nontrivial astrophysical environments. In fact, previous research usually assumed that these processes occurred in vaccuum, and taking these effects into account can lead to new constraints on the properties of new DM particles. My current research is focussed in this area, revisiting constraints on new particles and incorporating these in-medium effects in the framework of finite temperature field theory [^4]. This will lead to new constraints on new DM particles, which will advance our understanding of DM candidates and contribute to the search for
 beyond the SM physics by informing experimental searches as well as directions in theory.
 
-## Recent Highlights
- - [Awesome Paper](./highlights/awesome_paper/index.md)
+## Highlights
+
+Here are some highlights of my current and past reserach projects. A full list of my publications can be found [here](./all_publications.md).
+
+ - [Anomaly Detection for LIGO](./highlights/LIGO/index.md)
  - [Multiwavelength Paper](./highlights/large_mwl_paper/index.md)
 
-A full list of publications can be found [here](./all_publications.md).
+
 
 
 ## References

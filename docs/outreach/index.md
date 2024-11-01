@@ -1,6 +1,6 @@
 # Outreach
 
-Alongside my academic activities, I am also engaged in public outreach, aiming to increase public awareness of the sciences by sharing my research and the latest dicoveries in physics with the general public. I am especially interested in making careers in science more accessible, especially to young students from underrepresented background. I do this by making educational content and organizing public events such as open houses and telescope viewing events.
+Alongside my academic activities, I am also engaged in public outreach, aiming to increase public awareness of the sciences by sharing my research and the latest dicoveries in physics with the general public. I am especially interested in making careers in science more accessible, especially to young students from underrepresented backgrounds. I do this by making educational content and organizing public events such as open houses and telescope viewing events.
 
 Here are some examples of recent educational content I have made.
 
