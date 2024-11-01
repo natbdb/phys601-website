@@ -7,7 +7,7 @@ Welcome to my research page!
 
 I am a graduate student at McGill University, working with [Prof. Katelin Schutz](https://katelinschutz.com/) at the intersection between particle physics, astrophysics and cosmology.
 
-If you'd like to learn more about me, you can find an introduction to [my research](./research/index.md), some info on some [recent projects](./projects/index.md) and some more info [about me](./about/index.md).
+If you'd like to learn more about me, you can find an introduction to [my research](./research/index.md), some info on my [outreach work](./outreach/index.md) and some more info [about me](./about/index.md).
 
 
 [![McGill](./media/mcgill.webp "McGill Campus")](https://en.wikipedia.org/wiki/Crab_Nebula#)
