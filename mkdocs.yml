@@ -13,6 +13,8 @@ copyright: > # should remain a link to the original theme
 
 theme:
     name: material
+    logo: assets/icons/favicon.ico
+    favicon: assets/icons/favicon.ico
     palette:
       # Palette toggle for light mode
       - scheme: default
@@ -57,10 +59,10 @@ extra_javascript:
 nav:
   
   - Home: index.md
+  - About Me: about/index.md
   - Research: research/index.md
   - Outreach: outreach/index.md
-  - About Me: about/index.md
-  
+
 # Extensions that we want to use
 markdown_extensions:
   - attr_list   # For adding attributes such as right/left align to images
