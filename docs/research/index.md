@@ -26,7 +26,7 @@ A full list of my publications can be found [here](./all_publications.md).
 
 ## Highlights
 
-Here are some highlights of my current and past reserach projects. 
+Here are some highlights of my current and past research projects. 
 
  - [Anomaly Detection for LIGO](./highlights/LIGO/index.md)
  - [Cylindrical Solutions of the Einstein Field Equations](./highlights/cylindrical_solutions/index.md)

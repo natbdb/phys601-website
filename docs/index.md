@@ -2,8 +2,11 @@
 
 
 ![](./media/particles.jpg "particles"){align="center": style="height:1;width:100%"}
+<p style="text-align: left; font-size: small;">
+  <a href="https://cds.cern.ch/record/39312" target="_blank">Bubble chamber with colour enhanced tracks, credits to CERN</a>
+</p>
 
-Welcome to my research page!
+## Welcome to my research page!
 
 I am a graduate student at McGill University, working with [Prof. Katelin Schutz](https://katelinschutz.com/) at the intersection between particle physics, astrophysics and cosmology.
 
